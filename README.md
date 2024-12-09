@@ -42,5 +42,3 @@ pip install opencv-python
 python main.py
 
 4. **Monitoramento:** O sistema começará a capturar vídeo da sua webcam. Caso haja movimento detectado durante o período configurado (00:00 - 05:00), o vídeo será gravado na pasta outputs e um log será gerado na mesma pasta.
-# projetoVisaoComputacional
-# projetoVisaoComputacional
